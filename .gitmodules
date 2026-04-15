@@ -1,0 +1,6 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/gask1ns/anvbeast-esp32-website-dummy.git
+[submodule "esp32-dummy"]
+	path = esp32-dummy
+	url = https://github.com/gask1ns/anvbeast-esp32-dummy.git
