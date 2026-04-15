@@ -1,0 +1,30 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Git internals accidentally copied
+**/.git/
+
+# PlatformIO / Arduino
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+
+# Node / Next.js
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and secrets
+**/.env
+**/.env.*
+**/include/secrets.h
